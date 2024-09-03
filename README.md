@@ -24,4 +24,4 @@ v1 - July 26, 2024
 
 - Every 3 levels there's a chaos round with x2 options
 
-[Clearance](http://greybeard42.neocities.org/javascript/clearance/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1) ![Creative Commons](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1) ![Credit](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1) ![No Commercial use!](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1) ![Sharing](https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1)
+[Clearance](http://greybeard42.neocities.org/javascript/clearance/) © 2024 by [GreyBeard42](../../) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1) ![Creative Commons](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1) ![Credit](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1) ![No Commercial use!](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1) ![Sharing](https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1)
