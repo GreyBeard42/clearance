@@ -2,7 +2,7 @@
 
 Clearance is a fast paced shopping game where you have to quickly solve for unit price.
 
-[Play on Homepage](https://greybeard42.neocities.org/javascript/clearance/)
+[Play on Homepage](https://greybeard42.github.io/javascript/clearance/)
 
 This repository does not contain the game images. If you want to see them, click here: [Pixilart Page](https://www.pixilart.com/art/junk-food-sr25b458ee52daws3?ft=user&ft_id=1842230)
 
