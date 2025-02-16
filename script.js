@@ -97,7 +97,7 @@ class Game {
       if(Math.round(Math.random()*4) == 1 && this.level != 1) box.style = 'padding: 1%; border: 4px solid #9adbc6; margin: 1%; animation-name: spin; animation-duration: 1000ms; animation-timing-function: linear; '
       box.id = i
       let img = document.createElement('img')
-      img.src = choice.image
+      img.src = "https://cdn.jsdelivr.net/gh/GreyBeard42/clearance@main/"+choice.image
       img.style = 'width: 90%;'
       let name = document.createElement('h3')
       name.innerText = choice.name
