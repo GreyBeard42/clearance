@@ -1,28 +1,28 @@
 body {
-    background: gray;
-    color: white;
-    text-align: center;
     overflow-x: hidden;
-  }
-  
-  .track {
+}
+body, ::backdrop {
+    background: #043022;
+}
+.track {
     font-size: 300%;
-    position: absolute;
+    position: fixed;
+    bottom: 2%;
     white-space: nowrap;
     will-change: transform;
     animation: marquee 15s linear infinite;
-  }
-  
-  @keyframes marquee {
+}
+
+@keyframes marquee {
     from { transform: translateX(0); }
     to { transform: translateX(-50%); }
+}
+
+@keyframes spin {
+  from {
+      transform:rotate(0deg);
   }
-  
-  @keyframes spin {
-      from {
-          transform:rotate(0deg);
-      }
-      to {
-          transform:rotate(360deg);
-      }
+  to {
+      transform:rotate(360deg);
   }
+}
