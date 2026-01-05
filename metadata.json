@@ -1,0 +1,14 @@
+{
+  "title": "Clearance",
+  "desc": "A fast paced shopping game where you have to quickly solve for unit price.",
+
+  "status": "archived",
+  "version": "v1",
+
+  "date": "7/26/2024",
+
+  "tags": [
+    "javascript",
+    "game"
+  ]
+}
